@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://bitbucket.org/hinf5300fall2017group1/course-project/downloads/bike_comm-01.ipa</string>
+					<string>https://bikecomm.github.io/bikecomm/bike_comm-01.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://bitbucket.org/hinf5300fall2017group1/course-project/downloads/bike_comm.57x57.png</string>
+					<string>https://bikecomm.github.io/bikecomm/bike_comm.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://bitbucket.org/hinf5300fall2017group1/course-project/downloads/bike_comm.512x512.png</string>
+					<string>https://bikecomm.github.io/bikecomm/bike_comm.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
